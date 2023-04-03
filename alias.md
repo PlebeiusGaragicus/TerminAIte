@@ -11,10 +11,6 @@ suggest() {
 }
 
 
-
-
-
-
 suggest() {
     args=""
     for arg in "$@"; do
